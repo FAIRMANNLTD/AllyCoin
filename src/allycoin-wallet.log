@@ -1,0 +1,91 @@
+2017-Nov-22 13:43:08.853581 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-22 13:43:22.310398 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-22 13:43:22.976664 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-22 13:43:31.192169 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:49553).
+2017-Nov-22 13:43:31.269057 INFO [simplewallet] Generated new wallet: 4LxDtEcaSfF1MRZGmmjY8KDE9cWjU5y7n5EtUG5EDFVW5QyChSwDKjLJUc285V6bYfhEPEg9xHDp6cWkbNSBjoveKHHYBE5
+2017-Nov-22 13:43:31.269057 INFO [simplewallet] view key: 49c1f6f1083559951afaf21162d34e9e3456943b301603a10828830949911a07
+2017-Nov-22 13:43:31.269523 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Nov-22 13:44:44.681599 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-22 13:44:51.631680 INFO [simplewallet] Generated new wallet: 4Dv8jGo93V22BPAGVTfNRZ21KmS7DKusSWC638FNEj4w3gp3Q4dku6qM6eKvtddNJd2QCxTRQha6mPj671M72kJhJrPiGQw
+2017-Nov-22 13:44:51.631680 INFO [simplewallet] view key: 57eb211ca4b6423db976ec035025022bcff8dee862792e73f8157b1d51618b00
+2017-Nov-22 13:44:51.632106 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Nov-22 13:52:51.612259 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:49553).
+2017-Nov-22 13:54:33.577863 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-22 13:54:38.840555 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:49553).
+2017-Nov-22 13:54:38.922729 INFO [simplewallet] Generated new wallet: 4DCdf1hVuefDLDfxCWzKhRSuxoLoHYfPxQy778u5vruBV7Np6vNoJydbbrU6Tqes2TSUNCbcn196vJy67vLwUt4H3ZJjeYx
+2017-Nov-22 13:54:38.922729 INFO [simplewallet] view key: 037704b44c72c3be4822915c1d846be648ba73a262a9f51661ab79ac00761308
+2017-Nov-22 13:54:38.923224 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Nov-22 13:54:51.623740 INFO [simplewallet] Wallet connected to daemon.
+2017-Nov-22 13:55:03.891573 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-22 13:55:09.260775 INFO [simplewallet] Generated new wallet: 4L7i4gugoBoBUEDfWqp6b93GVer8YtGe7ZyhFgMZwGHCDz5bw9SW3LWCT1h1mVBhPmNLeaNuRqmyhdVhXj8oPK9XEJyfMQ2
+2017-Nov-22 13:55:09.260775 INFO [simplewallet] view key: 5bae53af2ef93e3f09b4943c6c505e743f32f45e25221d77dd14ef7651af0303
+2017-Nov-22 13:55:09.261148 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Nov-22 14:03:35.233786 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-22 14:03:41.659702 INFO [simplewallet] Generated new wallet: 4Er7mKceD6V68nYSkGqQj1fbtGc8vNuGwN8okAK7seouPyJnZo2bcVghEwc8L8rBgVDXvGedEJnPD7GY4kwQZzDT3cRx8x9
+2017-Nov-22 14:03:41.659702 INFO [simplewallet] view key: f6173c34e0a2cf891f3793d8e406d92a414fb1453957d77104af5c307c25a80a
+2017-Nov-22 14:03:41.660193 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Nov-22 14:03:45.298157 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2017-Nov-22 14:03:49.906321 ERROR [simplewallet] Error: mining has NOT been started: Failed,wrongaddress
+2017-Nov-22 14:04:20.626031 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:49553).
+2017-Nov-22 14:04:20.626409 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:49553).
+2017-Nov-22 14:04:20.626564 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:49553).
+2017-Nov-22 14:06:21.219638 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-22 14:06:29.360297 INFO [simplewallet] Generated new wallet: 4GcYh2Sm5YHLf2nG4FrsHChZbQPjPzRXxNc2RB5QGQSrfqT8C1Sd7ZSAw4bZ63phGgYGSkTW5evNzfTZLSR9VpKxSysyVLb
+2017-Nov-22 14:06:29.360297 INFO [simplewallet] view key: 738503acdae49e0eda97e17ca05db5400f3e345d013a024ceeb55b92e9a9000c
+2017-Nov-22 14:06:29.360461 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Nov-22 14:06:34.173430 INFO [simplewallet] Mining started in daemon
+2017-Nov-22 14:06:34.407086 INFO [simplewallet] Height 1, transaction 1890b27f63060a830cc99b6ff2f9861b07b17168f456c3ab4ccd078b4f953868, received 0.0007
+2017-Nov-22 14:06:34.407150 INFO [simplewallet] Height 2, transaction 43b2f9663034164099f6d74bc8a855704c56553c4b3dfee6652d61c1b7f26177, received 0.0007
+2017-Nov-22 14:06:39.403367 INFO [simplewallet] Height 3, transaction 2e08b2b917c765f49e0bb26e6498c2ad6adf604bd5a78bfbd7e0ae420c85006f, received 0.0007

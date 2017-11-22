@@ -1,0 +1,590 @@
+2017-Nov-22 12:17:23.405556 INFO [daemon] AllyCoin v1.1.1.1()
+2017-Nov-22 12:17:23.406193 INFO [daemon] Module folder: /home/chris/Desktop/AllyMain/cryptonote/src/allycoind
+2017-Nov-22 12:17:23.431321 INFO [daemon] Initializing p2p server...
+2017-Nov-22 12:17:23.432803 INFO [node_server] Binding on 0.0.0.0:19552
+2017-Nov-22 12:17:23.432849 INFO [node_server] Net service binded on 0.0.0.0:19552
+2017-Nov-22 12:17:23.432873 INFO [node_server] Attempting to add IGD port mapping.
+2017-Nov-22 12:17:27.436877 INFO [node_server] No IGD was found.
+2017-Nov-22 12:17:27.437284 INFO [daemon] P2p server initialized OK
+2017-Nov-22 12:17:27.437411 INFO [daemon] Initializing core...
+2017-Nov-22 12:17:27.441328 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2017-Nov-22 12:17:27.488309 INFO [Blockchain] Blockchain initialized. last block: 0, d1967.h7.m17.s27 time ago, current difficulty: 1
+2017-Nov-22 12:17:27.488418 INFO [daemon] Core initialized OK
+2017-Nov-22 12:17:27.488487 INFO [daemon] Starting core rpc server on address 127.0.0.1:19553
+2017-Nov-22 12:17:27.488537 INFO [daemon] Core rpc server started ok
+2017-Nov-22 12:17:27.488569 INFO [daemon] Starting p2p net loop...
+2017-Nov-22 12:17:27.488590 INFO [node_server] Starting node_server
+2017-Nov-22 12:17:29.941373 INFO [daemon] AllyCoin v1.1.1.1()
+2017-Nov-22 12:17:29.941542 INFO [daemon] Module folder: /home/chris/Desktop/AllyMain/cryptonote/src/allycoind
+2017-Nov-22 12:17:29.941917 INFO [daemon] Initializing p2p server...
+2017-Nov-22 12:17:29.942009 INFO [node_server] Binding on 0.0.0.0:19552
+2017-Nov-22 12:17:29.943356 INFO [miner] Mining has been stopped, 0 finished
+2017-Nov-22 12:17:29.943904 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=98, Address already in use
+2017-Nov-22 12:17:30.993670 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:17:30.993768 INFO [core] 
+2017-Nov-22 12:17:30.993768 INFO [core] **********************************************************************
+2017-Nov-22 12:17:30.993768 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Nov-22 12:17:30.993768 INFO [core] 
+2017-Nov-22 12:17:30.993768 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Nov-22 12:17:30.993768 INFO [core] 
+2017-Nov-22 12:17:30.993768 INFO [core] Use "help" command to see the list of available commands.
+2017-Nov-22 12:17:30.993768 INFO [core] 
+2017-Nov-22 12:17:30.993768 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Nov-22 12:17:30.993768 INFO [core] **********************************************************************
+2017-Nov-22 12:17:33.273547 INFO [daemon] AllyCoin v1.1.1.1()
+2017-Nov-22 12:17:33.273724 INFO [daemon] Module folder: /home/chris/Desktop/AllyMain/cryptonote/src/allycoind
+2017-Nov-22 12:17:33.274126 INFO [daemon] Initializing p2p server...
+2017-Nov-22 12:17:33.274411 INFO [node_server] Binding on 0.0.0.0:19552
+2017-Nov-22 12:17:33.274751 INFO [miner] Mining has been stopped, 0 finished
+2017-Nov-22 12:17:33.275063 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=98, Address already in use
+2017-Nov-22 12:17:36.440755 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:17:41.903598 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:17:47.586451 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:17:53.047020 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:17:58.494214 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:18:04.194482 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:18:09.885564 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:18:15.351137 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:18:21.039039 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:18:26.520436 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:18:31.988274 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:18:37.464132 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:18:42.942628 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:18:48.625632 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:18:54.091916 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:18:59.793412 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:19:05.265445 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:19:10.741196 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:19:16.418575 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:19:22.135144 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:19:27.804554 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:19:33.493295 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:19:39.185045 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:19:44.642807 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:19:50.088948 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:19:55.551799 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:20:01.239060 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:20:06.708274 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:20:12.415448 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:20:17.861685 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:20:23.551669 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:20:29.232410 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:20:34.961624 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:20:40.643456 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:20:46.114715 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:20:51.584705 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:20:57.289007 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:21:02.974653 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:21:08.678166 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:21:14.143569 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:21:19.606192 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:21:25.049928 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:21:30.521863 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:21:36.207214 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:21:41.653490 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:21:47.120630 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:21:52.592609 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:21:58.057777 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:22:03.517506 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:22:09.195161 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:22:14.645414 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:22:20.337871 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:22:25.800703 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:22:31.483500 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:22:36.935132 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:22:42.623458 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:22:48.099560 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:22:53.566280 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:22:59.028497 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:23:04.712981 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:23:10.393780 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:23:16.076005 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:23:21.776424 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:23:27.252428 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:23:32.941731 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:23:38.650791 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:23:44.324136 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:23:50.208980 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:23:55.906038 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:24:01.657850 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:24:07.118466 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:24:12.802057 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:24:18.262469 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:24:23.724169 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:24:29.397514 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:24:34.847015 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:24:40.530918 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:24:46.009039 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:24:51.468018 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:24:56.930900 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:25:02.616862 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:25:08.060944 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:25:13.763481 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:25:19.651661 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:25:25.790747 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:25:31.915587 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:25:38.338388 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:25:44.532092 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:25:50.863607 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:25:57.032257 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:26:03.466380 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:26:09.711202 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:26:16.064228 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:26:24.841626 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:26:30.981181 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:26:37.364504 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:26:46.055554 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:26:52.205948 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:26:58.549109 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:27:04.927082 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:27:11.194859 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:27:17.564413 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:27:23.783358 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:27:29.881178 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:27:36.201987 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:27:42.195976 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:27:48.320478 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:27:54.284337 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:28:00.375511 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:28:06.373967 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:28:12.195849 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:28:17.932191 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:28:23.814473 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:28:29.713747 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:28:35.735027 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:28:41.751035 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:28:47.433725 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:28:52.893116 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:28:58.645406 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:29:04.357541 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:29:10.309455 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:29:15.911051 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:29:21.385149 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:29:27.275524 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:29:33.572226 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:29:39.604564 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:29:45.596938 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:29:51.424509 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:29:57.113340 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:30:02.608291 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:30:08.298610 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:30:13.983929 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:30:19.667772 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:30:25.120805 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:30:30.569745 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:30:36.025101 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:30:41.713732 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:30:47.173164 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:30:52.853704 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:30:58.305820 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:31:03.976236 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:31:09.684371 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:31:15.352894 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:31:20.876203 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:31:26.935575 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:31:32.974317 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:31:39.104033 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:31:45.541998 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:31:51.841188 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:31:57.936341 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:32:07.799868 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:32:13.914923 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:32:19.983583 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:32:25.982139 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:32:32.003475 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:32:40.690569 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:32:46.772104 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:32:53.086353 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:33:01.546762 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:33:07.484742 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:33:13.728544 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:33:20.142954 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:33:26.470639 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:33:32.632818 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:33:38.690843 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:33:45.058716 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:33:51.197678 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:33:57.287710 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:34:02.746273 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:34:08.211262 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:34:13.895345 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:34:19.590418 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:34:25.256991 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:34:30.749155 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:34:36.435616 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:34:42.125323 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:34:47.816829 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:34:53.277974 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:34:58.743851 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:35:04.438887 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:35:09.982506 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:35:15.711721 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:35:21.175539 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:35:29.380031 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:35:34.876970 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:35:40.376355 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:35:46.082758 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:35:51.756178 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:35:57.201430 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:36:02.658576 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:36:08.335113 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:36:13.777805 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:36:19.469980 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:36:25.165945 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:36:30.628958 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:36:36.079765 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:36:41.526997 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:36:47.213652 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:36:52.664573 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:36:58.345603 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:37:03.831011 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:37:09.516003 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:37:15.193014 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:37:20.658411 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:37:26.118598 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:37:31.569196 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:37:37.267538 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:37:42.742683 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:37:48.431130 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:37:54.140037 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:37:59.603109 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:38:05.079558 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:38:10.552653 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:38:16.068842 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:38:21.756172 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:38:27.438665 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:38:33.130441 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:38:38.820942 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:38:44.521584 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:38:50.189083 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:38:55.642700 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:39:01.097510 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:39:06.784813 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:39:12.479589 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:39:17.954931 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:39:23.408955 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:39:28.865608 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:39:34.311784 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:39:40.008344 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:39:45.473142 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:39:50.928901 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:39:56.611606 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:40:02.304375 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:40:07.991014 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:40:13.684275 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:40:19.140118 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:40:24.821275 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:40:30.498410 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:40:35.962002 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:40:41.412459 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:40:46.890439 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:40:52.349399 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:40:57.801882 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:41:03.269254 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:41:08.744285 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:41:14.453048 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:41:19.907919 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:41:25.360382 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:41:30.840094 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:41:36.311089 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:41:41.997399 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:41:47.683642 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:41:53.141088 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:41:58.839366 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:42:04.525190 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:42:09.975512 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:42:15.667566 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:42:21.126476 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:42:26.804848 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:42:32.254899 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:42:37.721313 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:42:43.178296 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:42:48.628368 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:42:54.318052 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:43:00.004060 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:43:05.693251 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:43:11.165073 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:43:16.857653 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:43:22.320504 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:43:27.999740 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:43:33.685029 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:43:39.381826 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:43:44.851922 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:43:50.316339 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:43:55.994830 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:44:01.678850 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:44:07.128763 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:44:12.590792 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:44:18.305777 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:44:23.769259 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:44:29.479668 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:44:35.167291 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:44:40.644613 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:44:46.105784 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:44:51.568000 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:44:57.028779 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:45:02.724472 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:45:08.185607 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:45:13.630180 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:45:19.323982 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:45:25.024295 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:45:30.531677 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:45:36.207529 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:45:41.695129 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:45:47.384472 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:45:53.132525 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:45:58.614791 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:46:04.062537 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:46:09.518969 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:46:15.195188 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:46:20.666035 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:46:26.352310 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:46:31.814603 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:46:37.505401 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:46:43.236290 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:46:48.691428 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:46:54.362559 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:46:59.843591 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:47:05.683936 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:47:11.146749 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:47:16.834630 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:47:22.539909 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:47:28.233274 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:47:33.689775 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:47:39.389544 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:47:44.845611 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:47:50.531445 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:47:56.216996 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:48:01.902936 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:48:07.586134 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:48:13.290910 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:48:19.003743 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:48:24.700854 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:48:30.162621 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:48:35.648726 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:48:41.333266 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:48:47.028451 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:48:52.491249 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:48:58.182459 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:49:03.860931 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:49:09.332479 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:49:15.031236 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:49:20.722025 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:49:26.413025 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:49:32.102605 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:49:37.793802 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:49:43.272874 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:49:48.734631 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:49:54.431435 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:49:59.888682 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:50:05.357955 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:50:11.077218 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:50:16.758456 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:50:22.453576 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:50:27.904911 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:50:33.601354 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:50:39.058613 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:50:44.783323 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:50:50.249444 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:50:55.954081 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:51:01.665190 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:51:07.151470 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:51:12.840184 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:51:18.543727 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:51:24.337074 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:51:30.469715 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:51:36.813089 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:51:42.846473 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:51:49.102977 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:51:55.242139 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:52:01.553691 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:52:07.608536 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:52:13.934134 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:52:20.012458 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:52:26.366360 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:52:32.657193 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:52:38.768223 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:52:45.054996 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:52:51.362759 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:52:57.662762 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:53:03.995467 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:53:09.675556 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:53:15.385553 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:53:21.075218 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:53:26.759346 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:53:32.209287 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:53:37.911587 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:53:43.376217 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:53:49.071610 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:53:54.755986 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:54:00.441135 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:54:05.915737 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:54:11.357013 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:54:16.806514 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:54:22.260231 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:54:27.954821 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:54:33.411688 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:54:39.111385 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:54:44.578993 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:54:50.264476 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:54:55.707931 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:55:01.160516 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:55:06.612581 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:55:12.299680 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:55:17.800831 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:55:23.250937 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:55:28.937559 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:55:34.394317 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:55:39.848237 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:55:45.305364 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:55:50.777633 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:55:56.467275 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:56:02.169040 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:56:07.857915 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:56:13.563486 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:56:19.054826 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:56:24.526616 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:56:30.217014 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:56:35.906162 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 12:56:41.611986 ERROR [node_server] Failed to connect to any of seed peers, continuing without seeds
+2017-Nov-22 14:03:27.721812 INFO [daemon] AllyCoin v1.1.1.1()
+2017-Nov-22 14:03:27.721948 INFO [daemon] Module folder: /home/chris/Desktop/AllyMain/cryptonote/src/allycoind
+2017-Nov-22 14:03:27.723741 INFO [daemon] Initializing p2p server...
+2017-Nov-22 14:03:27.723870 INFO [node_server] Binding on 0.0.0.0:49552
+2017-Nov-22 14:03:27.723963 INFO [miner] Mining has been stopped, 0 finished
+2017-Nov-22 14:03:27.724062 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=98, Address already in use
+2017-Nov-22 14:04:12.065926 INFO [daemon] AllyCoin v1.1.1.1()
+2017-Nov-22 14:04:12.066299 INFO [daemon] Module folder: /home/chris/Desktop/AllyMain/cryptonote/src/allycoind
+2017-Nov-22 14:04:12.066672 INFO [daemon] Initializing p2p server...
+2017-Nov-22 14:04:12.066815 INFO [node_server] Binding on 0.0.0.0:49552
+2017-Nov-22 14:04:12.066933 INFO [miner] Mining has been stopped, 0 finished
+2017-Nov-22 14:04:12.067070 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=98, Address already in use
+2017-Nov-22 14:05:52.817240 INFO [daemon] AllyCoin v1.1.1.1()
+2017-Nov-22 14:05:52.821695 INFO [daemon] Module folder: /home/chris/Desktop/AllyMain/cryptonote/src/allycoind
+2017-Nov-22 14:05:52.854423 INFO [daemon] Initializing p2p server...
+2017-Nov-22 14:05:52.897644 INFO [node_server] Binding on 0.0.0.0:49552
+2017-Nov-22 14:05:52.897732 INFO [node_server] Net service binded on 0.0.0.0:49552
+2017-Nov-22 14:05:52.897760 INFO [node_server] Attempting to add IGD port mapping.
+2017-Nov-22 14:05:56.903310 INFO [node_server] No IGD was found.
+2017-Nov-22 14:05:56.903377 INFO [daemon] P2p server initialized OK
+2017-Nov-22 14:05:56.903403 INFO [daemon] Initializing core...
+2017-Nov-22 14:05:56.946071 INFO [Blockchain] Loading blockchain...
+2017-Nov-22 14:05:56.947048 INFO [BlockCacheSerializer] - loading block index...
+2017-Nov-22 14:05:56.947095 INFO [BlockCacheSerializer] - loading transaction map...
+2017-Nov-22 14:05:56.947378 INFO [BlockCacheSerializer] - loading spent keys...
+2017-Nov-22 14:05:56.947400 INFO [BlockCacheSerializer] - loading outputs...
+2017-Nov-22 14:05:56.947978 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2017-Nov-22 14:05:56.948058 INFO [BlockCacheSerializer] Serialization time: 1ms
+2017-Nov-22 14:05:56.962851 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2017-Nov-22 14:05:56.978148 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2017-Nov-22 14:05:56.978294 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2017-Nov-22 14:05:56.978333 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2017-Nov-22 14:05:56.993020 INFO [Blockchain] Blockchain initialized. last block: 0, d1967.h9.m5.s56 time ago, current difficulty: 1
+2017-Nov-22 14:05:56.993090 INFO [daemon] Core initialized OK
+2017-Nov-22 14:05:56.993153 INFO [daemon] Starting core rpc server on address 127.0.0.1:49553
+2017-Nov-22 14:05:56.993204 INFO [daemon] Core rpc server started ok
+2017-Nov-22 14:05:56.993230 INFO [daemon] Starting p2p net loop...
+2017-Nov-22 14:05:56.993250 INFO [node_server] Starting node_server
+2017-Nov-22 14:06:07.065156 INFO [protocol] 
+2017-Nov-22 14:06:07.065156 INFO [protocol] **********************************************************************
+2017-Nov-22 14:06:07.065156 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2017-Nov-22 14:06:07.065156 INFO [protocol] 
+2017-Nov-22 14:06:07.065156 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2017-Nov-22 14:06:07.065156 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2017-Nov-22 14:06:07.065156 INFO [protocol] 
+2017-Nov-22 14:06:07.065156 INFO [protocol] Use "help" command to see the list of available commands.
+2017-Nov-22 14:06:07.065156 INFO [protocol] **********************************************************************
+2017-Nov-22 14:06:17.289489 INFO [core] 
+2017-Nov-22 14:06:17.289489 INFO [core] **********************************************************************
+2017-Nov-22 14:06:17.289489 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Nov-22 14:06:17.289489 INFO [core] 
+2017-Nov-22 14:06:17.289489 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Nov-22 14:06:17.289489 INFO [core] 
+2017-Nov-22 14:06:17.289489 INFO [core] Use "help" command to see the list of available commands.
+2017-Nov-22 14:06:17.289489 INFO [core] 
+2017-Nov-22 14:06:17.289489 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Nov-22 14:06:17.289489 INFO [core] **********************************************************************
+2017-Nov-22 14:06:34.173052 INFO [miner] Mining has started with 1 threads, good luck!
+2017-Nov-22 14:06:34.173123 INFO [miner] Miner thread was started [0]
+2017-Nov-22 14:06:34.219707 INFO [miner] Found block for difficulty: 1
+2017-Nov-22 14:06:34.342991 INFO [miner] Found block for difficulty: 1
+2017-Nov-22 14:06:37.288085 INFO [miner] Found block for difficulty: 120
+2017-Nov-22 14:09:20.366675 INFO [miner] Found block for difficulty: 14520
+2017-Nov-22 14:14:02.070433 INFO [miner] Found block for difficulty: 10779
+2017-Nov-22 14:14:13.568522 INFO [miner] Found block for difficulty: 6855
+2017-Nov-22 14:16:05.482999 INFO [miner] Found block for difficulty: 8475
+2017-Nov-22 14:16:26.635233 INFO [miner] Found block for difficulty: 8655
+2017-Nov-22 14:24:16.117226 INFO [miner] Found block for difficulty: 10066
+2017-Nov-22 14:26:23.298071 INFO [miner] Found block for difficulty: 6733
+2017-Nov-22 14:26:38.236469 INFO [miner] Found block for difficulty: 6699
+2017-Nov-22 14:27:43.972891 INFO [miner] Found block for difficulty: 7267
+2017-Nov-22 14:32:10.596781 INFO [miner] Found block for difficulty: 7612
+2017-Nov-22 14:33:36.025103 INFO [miner] Found block for difficulty: 6867
+2017-Nov-22 14:37:47.402814 INFO [miner] Found block for difficulty: 7020
+2017-Nov-22 14:37:57.194112 INFO [miner] Found block for difficulty: 6525
+2017-Nov-22 14:40:01.999103 INFO [miner] Found block for difficulty: 6899
+2017-Nov-22 14:41:52.096651 INFO [miner] Found block for difficulty: 6899
+2017-Nov-22 14:46:53.697671 INFO [miner] Found block for difficulty: 6919
+2017-Nov-22 14:47:08.121533 INFO [miner] Found block for difficulty: 6403
+2017-Nov-22 14:48:51.334497 INFO [miner] Found block for difficulty: 6688
+2017-Nov-22 14:54:17.232515 INFO [miner] Found block for difficulty: 6720
+2017-Nov-22 14:55:36.522427 INFO [miner] Found block for difficulty: 6241
+2017-Nov-22 14:56:20.222479 INFO [miner] Found block for difficulty: 6330
+2017-Nov-22 14:56:46.693520 INFO [miner] Found block for difficulty: 6496
+2017-Nov-22 14:57:30.696649 INFO [miner] Found block for difficulty: 6690
+2017-Nov-22 15:05:23.933951 INFO [miner] Found block for difficulty: 6861
+2017-Nov-22 15:07:03.979736 INFO [miner] Found block for difficulty: 6167
+2017-Nov-22 15:10:43.514299 INFO [miner] Found block for difficulty: 6204
+2017-Nov-22 15:12:11.466963 INFO [miner] Found block for difficulty: 6048
+2017-Nov-22 15:13:26.974210 INFO [miner] Found block for difficulty: 6092
+2017-Nov-22 15:13:42.872874 INFO [miner] Found block for difficulty: 6162
+2017-Nov-22 15:16:50.650613 INFO [miner] Found block for difficulty: 6318
+2017-Nov-22 15:18:14.596274 INFO [miner] Found block for difficulty: 6215
+2017-Nov-22 15:19:31.257317 INFO [miner] Found block for difficulty: 6287
+2017-Nov-22 15:21:40.112082 INFO [miner] Found block for difficulty: 6329
+2017-Nov-22 15:21:46.518056 INFO [miner] Found block for difficulty: 6321
+2017-Nov-22 15:22:04.785704 INFO [miner] Found block for difficulty: 6480
+2017-Nov-22 15:22:24.972981 INFO [miner] Found block for difficulty: 6626
+2017-Nov-22 15:22:52.896789 INFO [miner] Found block for difficulty: 6775
+2017-Nov-22 15:23:13.001193 INFO [miner] Found block for difficulty: 6908
+2017-Nov-22 15:26:17.726187 INFO [miner] Found block for difficulty: 7057
+2017-Nov-22 15:27:06.918207 INFO [miner] Found block for difficulty: 6964
+2017-Nov-22 15:31:08.570221 INFO [miner] Found block for difficulty: 7068
+2017-Nov-22 15:33:18.288906 INFO [miner] Found block for difficulty: 6899
+2017-Nov-22 15:35:50.337840 INFO [miner] Found block for difficulty: 6883
+2017-Nov-22 15:35:52.473786 INFO [miner] Found block for difficulty: 6841
+2017-Nov-22 15:36:11.643172 INFO [miner] Found block for difficulty: 6990
+2017-Nov-22 15:43:00.042948 INFO [miner] Found block for difficulty: 7127
+2017-Nov-22 15:47:55.361736 INFO [miner] Found block for difficulty: 6770
+2017-Nov-22 15:51:05.181902 INFO [miner] Found block for difficulty: 6576
+2017-Nov-22 15:51:11.288791 INFO [miner] Found block for difficulty: 6499
+2017-Nov-22 15:52:20.072002 INFO [miner] Found block for difficulty: 6616
+2017-Nov-22 16:04:33.607430 INFO [miner] Found block for difficulty: 6668
+2017-Nov-22 16:04:50.275366 INFO [miner] Found block for difficulty: 6090
+2017-Nov-22 16:07:23.682693 WARNING [node_server] [138.68.130.226:49552 OUT] Exception in connectionHandler: TcpConnection::read
+2017-Nov-22 16:07:39.720728 INFO [miner] Found block for difficulty: 6186
+2017-Nov-22 16:10:22.218216 INFO [miner] Found block for difficulty: 6138
+2017-Nov-22 16:11:22.006019 INFO [miner] Found block for difficulty: 6104
+2017-Nov-22 16:15:33.527533 INFO [miner] Found block for difficulty: 6154
+2017-Nov-22 16:16:28.678060 INFO [miner] Found block for difficulty: 6123
+2017-Nov-22 16:17:02.002040 INFO [miner] Found block for difficulty: 6194
+2017-Nov-22 16:19:25.308635 INFO [miner] Found block for difficulty: 6261
+2017-Nov-22 16:19:30.687300 INFO [miner] Found block for difficulty: 6243
+2017-Nov-22 16:20:41.126344 INFO [miner] Found block for difficulty: 6331
+2017-Nov-22 16:24:15.529776 INFO [miner] Found block for difficulty: 6370
+2017-Nov-22 16:28:56.797342 INFO [miner] Found block for difficulty: 6302
+2017-Nov-22 16:32:00.969444 INFO [miner] Found block for difficulty: 6180
+2017-Nov-22 16:32:57.015177 INFO [miner] Found block for difficulty: 6137
+2017-Nov-22 16:33:40.720693 INFO [miner] Found block for difficulty: 6182
+2017-Nov-22 16:34:35.308478 INFO [miner] Found block for difficulty: 6236
+2017-Nov-22 16:36:26.674201 INFO [miner] Found block for difficulty: 6280
+2017-Nov-22 16:40:12.228218 INFO [miner] Found block for difficulty: 6285
+2017-Nov-22 16:42:51.222507 INFO [miner] Found block for difficulty: 6213
+2017-Nov-22 16:44:20.625377 INFO [miner] Found block for difficulty: 6186
+2017-Nov-22 16:47:42.806031 INFO [miner] Found block for difficulty: 6209
+2017-Nov-22 16:48:59.818598 INFO [miner] Found block for difficulty: 6155
+2017-Nov-22 16:49:00.036197 INFO [miner] Found block for difficulty: 6181
+2017-Nov-22 16:51:06.318209 INFO [miner] Found block for difficulty: 6256
+2017-Nov-22 16:56:11.292690 INFO [miner] Found block for difficulty: 6254
+2017-Nov-22 17:00:40.419873 INFO [miner] Found block for difficulty: 6140
+2017-Nov-22 17:01:03.324731 INFO [miner] Found block for difficulty: 6052
