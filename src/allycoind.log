@@ -588,3 +588,237 @@
 2017-Nov-22 16:56:11.292690 INFO [miner] Found block for difficulty: 6254
 2017-Nov-22 17:00:40.419873 INFO [miner] Found block for difficulty: 6140
 2017-Nov-22 17:01:03.324731 INFO [miner] Found block for difficulty: 6052
+2017-Nov-22 17:06:25.087956 INFO [miner] Found block for difficulty: 6109
+2017-Nov-22 17:10:46.982701 INFO [miner] Found block for difficulty: 5995
+2017-Nov-22 17:17:05.178155 INFO [miner] Found block for difficulty: 5919
+2017-Nov-22 17:18:46.149333 INFO [miner] Found block for difficulty: 5785
+2017-Nov-22 17:19:26.023247 INFO [miner] Found block for difficulty: 5793
+2017-Nov-22 17:20:32.433369 INFO [miner] Found block for difficulty: 5834
+2017-Nov-22 17:22:43.601462 INFO [miner] Found block for difficulty: 5859
+2017-Nov-22 17:23:14.829885 INFO [miner] Found block for difficulty: 5856
+2017-Nov-22 17:23:20.669587 INFO [miner] Found block for difficulty: 5898
+2017-Nov-22 17:28:26.243437 INFO [miner] Found block for difficulty: 5955
+2017-Nov-22 17:37:44.155570 INFO [miner] Found block for difficulty: 5866
+2017-Nov-22 17:48:49.763419 INFO [miner] Found block for difficulty: 5663
+2017-Nov-22 17:54:55.592144 INFO [miner] Found block for difficulty: 5431
+2017-Nov-22 18:04:32.727650 INFO [miner] Found block for difficulty: 5332
+2017-Nov-22 18:07:35.167895 INFO [miner] Found block for difficulty: 5161
+2017-Nov-22 18:08:32.895655 INFO [miner] Found block for difficulty: 5139
+2017-Nov-22 18:08:51.199641 INFO [miner] Found block for difficulty: 5162
+2017-Nov-22 18:09:33.332706 INFO [miner] Found block for difficulty: 5197
+2017-Nov-22 18:10:26.601686 INFO [miner] Found block for difficulty: 5225
+2017-Nov-22 18:15:41.694540 INFO [miner] Found block for difficulty: 5250
+2017-Nov-22 18:16:50.262587 INFO [miner] Found block for difficulty: 5181
+2017-Nov-22 18:19:08.334734 INFO [miner] Found block for difficulty: 5198
+2017-Nov-22 18:22:10.574401 INFO [miner] Found block for difficulty: 5193
+2017-Nov-22 18:22:12.873869 INFO [miner] Found block for difficulty: 5172
+2017-Nov-22 18:23:57.102167 INFO [miner] Found block for difficulty: 5211
+2017-Nov-22 18:24:13.052455 INFO [miner] Found block for difficulty: 5217
+2017-Nov-22 18:24:49.867386 INFO [miner] Found block for difficulty: 5251
+2017-Nov-22 18:25:50.545880 INFO [miner] Found block for difficulty: 5280
+2017-Nov-22 18:28:05.036929 INFO [miner] Found block for difficulty: 5299
+2017-Nov-22 18:32:16.550812 INFO [miner] Found block for difficulty: 5295
+2017-Nov-22 18:32:26.050150 INFO [miner] Found block for difficulty: 5252
+2017-Nov-22 18:32:40.710584 INFO [miner] Found block for difficulty: 5289
+2017-Nov-22 18:35:41.113371 INFO [miner] Found block for difficulty: 5322
+2017-Nov-22 18:38:13.108248 INFO [miner] Found block for difficulty: 5304
+2017-Nov-22 18:43:27.681249 INFO [miner] Found block for difficulty: 5292
+2017-Nov-22 18:45:41.580187 INFO [miner] Found block for difficulty: 5230
+2017-Nov-22 18:47:35.143025 INFO [miner] Found block for difficulty: 5225
+2017-Nov-22 18:48:07.112791 INFO [miner] Found block for difficulty: 5228
+2017-Nov-22 18:50:33.915643 INFO [miner] Found block for difficulty: 5256
+2017-Nov-22 18:50:45.279179 INFO [miner] Found block for difficulty: 5248
+2017-Nov-22 18:52:06.110627 INFO [miner] Found block for difficulty: 5280
+2017-Nov-22 18:52:12.076124 INFO [miner] Found block for difficulty: 5294
+2017-Nov-22 18:52:24.360378 INFO [miner] Found block for difficulty: 5329
+2017-Nov-22 18:54:05.327950 INFO [miner] Found block for difficulty: 5361
+2017-Nov-22 18:54:06.646172 INFO [miner] Found block for difficulty: 5368
+2017-Nov-22 18:58:31.110470 INFO [miner] Found block for difficulty: 5403
+2017-Nov-22 19:02:25.829762 INFO [miner] Found block for difficulty: 5360
+2017-Nov-22 19:07:39.021275 INFO [miner] Found block for difficulty: 5325
+2017-Nov-22 19:09:38.099906 INFO [miner] Found block for difficulty: 5267
+2017-Nov-22 19:10:36.442543 INFO [miner] Found block for difficulty: 5268
+2017-Nov-22 19:12:04.503710 INFO [miner] Found block for difficulty: 5287
+2017-Nov-22 19:14:40.616233 INFO [miner] Found block for difficulty: 5295
+2017-Nov-22 19:17:08.769400 INFO [miner] Found block for difficulty: 5285
+2017-Nov-22 19:17:38.415253 INFO [miner] Found block for difficulty: 5277
+2017-Nov-22 19:18:31.097115 INFO [miner] Found block for difficulty: 5303
+2017-Nov-22 19:18:41.362056 INFO [miner] Found block for difficulty: 5321
+2017-Nov-22 19:19:03.294796 INFO [miner] Found block for difficulty: 5353
+2017-Nov-22 19:21:22.085076 INFO [miner] Found block for difficulty: 5381
+2017-Nov-22 19:24:26.772953 INFO [miner] Found block for difficulty: 5376
+2017-Nov-22 19:24:27.607562 INFO [miner] Found block for difficulty: 5357
+2017-Nov-22 19:25:03.797972 INFO [miner] Found block for difficulty: 5390
+2017-Nov-22 19:27:14.021475 INFO [miner] Found block for difficulty: 5415
+2017-Nov-22 19:27:31.646428 INFO [miner] Found block for difficulty: 5412
+2017-Nov-22 19:29:17.973699 INFO [miner] Found block for difficulty: 5440
+2017-Nov-22 19:29:31.231947 INFO [miner] Found block for difficulty: 5444
+2017-Nov-22 19:31:37.815999 INFO [miner] Found block for difficulty: 5474
+2017-Nov-22 19:32:17.364376 INFO [miner] Found block for difficulty: 5472
+2017-Nov-22 19:37:01.344631 INFO [miner] Found block for difficulty: 5494
+2017-Nov-22 19:38:45.729650 INFO [miner] Found block for difficulty: 5449
+2017-Nov-22 19:42:26.640472 INFO [miner] Found block for difficulty: 5454
+2017-Nov-22 19:44:01.158542 INFO [miner] Found block for difficulty: 5426
+2017-Nov-22 19:46:42.991711 INFO [miner] Found block for difficulty: 5434
+2017-Nov-22 19:48:35.551375 INFO [miner] Found block for difficulty: 5421
+2017-Nov-22 19:50:53.309467 INFO [miner] Found block for difficulty: 5423
+2017-Nov-22 19:52:22.212449 INFO [miner] Found block for difficulty: 5419
+2017-Nov-22 20:03:26.025055 INFO [miner] Found block for difficulty: 5428
+2017-Nov-22 20:03:50.728883 INFO [miner] Found block for difficulty: 5289
+2017-Nov-22 20:04:48.654030 INFO [miner] Found block for difficulty: 5314
+2017-Nov-22 20:06:21.212205 INFO [miner] Found block for difficulty: 5329
+2017-Nov-22 20:08:34.196043 INFO [miner] Found block for difficulty: 5335
+2017-Nov-22 20:08:59.688549 INFO [miner] Found block for difficulty: 5332
+2017-Nov-22 20:17:18.307208 INFO [miner] Found block for difficulty: 5356
+2017-Nov-22 20:18:38.736932 INFO [miner] Found block for difficulty: 5265
+2017-Nov-22 20:22:16.237734 INFO [miner] Found block for difficulty: 5273
+2017-Nov-22 20:22:53.094379 INFO [miner] Found block for difficulty: 5251
+2017-Nov-22 20:22:54.853573 INFO [miner] Found block for difficulty: 5269
+2017-Nov-22 20:23:46.092678 INFO [miner] Found block for difficulty: 5297
+2017-Nov-22 20:24:49.348314 INFO [miner] Found block for difficulty: 5314
+2017-Nov-22 20:27:32.384094 INFO [miner] Found block for difficulty: 5327
+2017-Nov-22 20:27:51.024632 INFO [miner] Found block for difficulty: 5317
+2017-Nov-22 20:28:08.481193 INFO [miner] Found block for difficulty: 5340
+2017-Nov-22 20:28:13.420240 INFO [miner] Found block for difficulty: 5364
+2017-Nov-22 20:29:05.050927 INFO [miner] Found block for difficulty: 5392
+2017-Nov-22 20:30:24.033643 INFO [miner] Found block for difficulty: 5407
+2017-Nov-22 20:30:51.390988 INFO [miner] Found block for difficulty: 5417
+2017-Nov-22 20:37:35.527468 INFO [miner] Found block for difficulty: 5438
+2017-Nov-22 20:41:34.626466 INFO [miner] Found block for difficulty: 5373
+2017-Nov-22 20:45:13.919049 INFO [miner] Found block for difficulty: 5346
+2017-Nov-22 20:47:38.303416 INFO [miner] Found block for difficulty: 5324
+2017-Nov-22 20:48:57.736013 INFO [miner] Found block for difficulty: 5318
+2017-Nov-22 20:51:29.419009 INFO [miner] Found block for difficulty: 5328
+2017-Nov-22 20:56:03.549982 INFO [miner] Found block for difficulty: 5320
+2017-Nov-22 21:01:07.200570 INFO [miner] Found block for difficulty: 5287
+2017-Nov-22 21:03:52.748903 INFO [miner] Found block for difficulty: 5247
+2017-Nov-22 21:05:48.365757 INFO [miner] Found block for difficulty: 5239
+2017-Nov-22 21:06:58.578112 INFO [miner] Found block for difficulty: 5239
+2017-Nov-22 21:08:25.486287 INFO [miner] Found block for difficulty: 5250
+2017-Nov-22 21:08:47.272287 INFO [miner] Found block for difficulty: 5256
+2017-Nov-22 21:09:50.554396 INFO [miner] Found block for difficulty: 5277
+2017-Nov-22 21:11:06.687138 INFO [miner] Found block for difficulty: 5288
+2017-Nov-22 21:11:47.877154 INFO [miner] Found block for difficulty: 5298
+2017-Nov-22 21:15:50.382383 INFO [miner] Found block for difficulty: 5314
+2017-Nov-22 21:17:01.966608 INFO [miner] Found block for difficulty: 5289
+2017-Nov-22 21:17:15.777057 INFO [node_server] Stop signal sent
+2017-Nov-22 21:17:15.777234 INFO [node_server] Stopping NodeServer and it's1 connections...
+2017-Nov-22 21:17:15.777467 INFO [node_server] NodeServer loop stopped
+2017-Nov-22 21:17:15.777532 INFO [daemon] p2p net loop stopped
+2017-Nov-22 21:17:15.777679 INFO [daemon] Stopping core rpc server...
+2017-Nov-22 21:17:15.777769 INFO [daemon] Deinitializing core...
+2017-Nov-22 21:17:15.782286 INFO [miner] Miner thread stopped [0]
+2017-Nov-22 21:17:15.782553 INFO [miner] Mining has been stopped, 0 finished
+2017-Nov-22 21:17:15.782678 INFO [Blockchain] Saving blockchain...
+2017-Nov-22 21:17:15.782751 INFO [BlockCacheSerializer] - saving block index...
+2017-Nov-22 21:17:15.782814 INFO [BlockCacheSerializer] - saving transaction map...
+2017-Nov-22 21:17:15.782903 INFO [BlockCacheSerializer] - saving spent keys...
+2017-Nov-22 21:17:15.782945 INFO [BlockCacheSerializer] - saving outputs...
+2017-Nov-22 21:17:15.783064 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2017-Nov-22 21:17:15.783107 INFO [BlockCacheSerializer] Serialization time: 0ms
+2017-Nov-22 21:17:15.783156 INFO [Blockchain] Saving blockchain indices...
+2017-Nov-22 21:17:15.783220 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2017-Nov-22 21:17:15.783264 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2017-Nov-22 21:17:15.783337 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2017-Nov-22 21:17:15.783410 INFO [daemon] Deinitializing p2p...
+2017-Nov-22 21:17:15.783616 INFO [miner] Mining has been stopped, 0 finished
+2017-Nov-22 21:17:15.783880 INFO [daemon] Node stopped.
+2017-Nov-23 01:11:30.736323 INFO [daemon] AllyCoin v1.1.1.1()
+2017-Nov-23 01:11:30.745413 INFO [daemon] Module folder: ./allycoind
+2017-Nov-23 01:11:30.775123 INFO [daemon] Initializing p2p server...
+2017-Nov-23 01:11:30.778467 INFO [node_server] Binding on 0.0.0.0:49552
+2017-Nov-23 01:11:30.778552 INFO [node_server] Net service binded on 0.0.0.0:49552
+2017-Nov-23 01:11:30.778580 INFO [node_server] Attempting to add IGD port mapping.
+2017-Nov-23 01:11:34.783313 INFO [node_server] No IGD was found.
+2017-Nov-23 01:11:34.783381 INFO [daemon] P2p server initialized OK
+2017-Nov-23 01:11:34.783452 INFO [daemon] Initializing core...
+2017-Nov-23 01:11:34.785753 INFO [Blockchain] Loading blockchain...
+2017-Nov-23 01:11:34.786188 INFO [BlockCacheSerializer] - loading block index...
+2017-Nov-23 01:11:34.786676 INFO [BlockCacheSerializer] - loading transaction map...
+2017-Nov-23 01:11:34.786731 INFO [BlockCacheSerializer] - loading spent keys...
+2017-Nov-23 01:11:34.786753 INFO [BlockCacheSerializer] - loading outputs...
+2017-Nov-23 01:11:34.787514 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2017-Nov-23 01:11:34.787645 INFO [BlockCacheSerializer] Serialization time: 1ms
+2017-Nov-23 01:11:34.788601 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2017-Nov-23 01:11:34.788689 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2017-Nov-23 01:11:34.788725 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2017-Nov-23 01:11:34.788777 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2017-Nov-23 01:11:34.790073 INFO [Blockchain] Blockchain initialized. last block: 195, d0.h3.m54.s35 time ago, current difficulty: 5299
+2017-Nov-23 01:11:34.790151 INFO [daemon] Core initialized OK
+2017-Nov-23 01:11:34.790224 INFO [daemon] Starting core rpc server on address 127.0.0.1:49553
+2017-Nov-23 01:11:34.790448 INFO [daemon] Core rpc server started ok
+2017-Nov-23 01:11:34.790527 INFO [daemon] Starting p2p net loop...
+2017-Nov-23 01:11:34.790590 INFO [node_server] Starting node_server
+2017-Nov-23 01:11:46.177673 INFO [protocol] 
+2017-Nov-23 01:11:46.177673 INFO [protocol] **********************************************************************
+2017-Nov-23 01:11:46.177673 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2017-Nov-23 01:11:46.177673 INFO [protocol] 
+2017-Nov-23 01:11:46.177673 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2017-Nov-23 01:11:46.177673 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2017-Nov-23 01:11:46.177673 INFO [protocol] 
+2017-Nov-23 01:11:46.177673 INFO [protocol] Use "help" command to see the list of available commands.
+2017-Nov-23 01:11:46.177673 INFO [protocol] **********************************************************************
+2017-Nov-23 01:11:47.217402 INFO [core] 
+2017-Nov-23 01:11:47.217402 INFO [core] **********************************************************************
+2017-Nov-23 01:11:47.217402 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Nov-23 01:11:47.217402 INFO [core] 
+2017-Nov-23 01:11:47.217402 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Nov-23 01:11:47.217402 INFO [core] 
+2017-Nov-23 01:11:47.217402 INFO [core] Use "help" command to see the list of available commands.
+2017-Nov-23 01:11:47.217402 INFO [core] 
+2017-Nov-23 01:11:47.217402 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Nov-23 01:11:47.217402 INFO [core] **********************************************************************
+2017-Nov-23 01:15:32.546600 INFO [daemon] AllyCoin v1.1.1.1()
+2017-Nov-23 01:15:32.552605 INFO [daemon] Module folder: ./allycoind
+2017-Nov-23 01:15:32.568972 INFO [daemon] Initializing p2p server...
+2017-Nov-23 01:15:32.586366 INFO [node_server] Binding on 0.0.0.0:49552
+2017-Nov-23 01:15:32.586484 INFO [node_server] Net service binded on 0.0.0.0:49552
+2017-Nov-23 01:15:32.586533 INFO [node_server] Attempting to add IGD port mapping.
+2017-Nov-23 01:15:36.591292 INFO [node_server] No IGD was found.
+2017-Nov-23 01:15:36.591356 INFO [daemon] P2p server initialized OK
+2017-Nov-23 01:15:36.591380 INFO [daemon] Initializing core...
+2017-Nov-23 01:15:36.631066 INFO [Blockchain] Loading blockchain...
+2017-Nov-23 01:15:36.638110 INFO [BlockCacheSerializer] - loading block index...
+2017-Nov-23 01:15:36.638317 INFO [BlockCacheSerializer] - loading transaction map...
+2017-Nov-23 01:15:36.638694 INFO [BlockCacheSerializer] - loading spent keys...
+2017-Nov-23 01:15:36.638729 INFO [BlockCacheSerializer] - loading outputs...
+2017-Nov-23 01:15:36.639822 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2017-Nov-23 01:15:36.639958 INFO [BlockCacheSerializer] Serialization time: 1ms
+2017-Nov-23 01:15:36.641145 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2017-Nov-23 01:15:36.641794 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2017-Nov-23 01:15:36.642861 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2017-Nov-23 01:15:36.642933 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2017-Nov-23 01:15:36.648196 INFO [Blockchain] Blockchain initialized. last block: 195, d0.h3.m58.s37 time ago, current difficulty: 5299
+2017-Nov-23 01:15:36.648259 INFO [daemon] Core initialized OK
+2017-Nov-23 01:15:36.648316 INFO [daemon] Starting core rpc server on address 127.0.0.1:49553
+2017-Nov-23 01:15:36.648364 INFO [daemon] Core rpc server started ok
+2017-Nov-23 01:15:36.648389 INFO [daemon] Starting p2p net loop...
+2017-Nov-23 01:15:36.648408 INFO [node_server] Starting node_server
+2017-Nov-23 01:15:46.715462 INFO [protocol] 
+2017-Nov-23 01:15:46.715462 INFO [protocol] **********************************************************************
+2017-Nov-23 01:15:46.715462 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2017-Nov-23 01:15:46.715462 INFO [protocol] 
+2017-Nov-23 01:15:46.715462 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2017-Nov-23 01:15:46.715462 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2017-Nov-23 01:15:46.715462 INFO [protocol] 
+2017-Nov-23 01:15:46.715462 INFO [protocol] Use "help" command to see the list of available commands.
+2017-Nov-23 01:15:46.715462 INFO [protocol] **********************************************************************
+2017-Nov-23 01:15:47.761104 INFO [core] 
+2017-Nov-23 01:15:47.761104 INFO [core] **********************************************************************
+2017-Nov-23 01:15:47.761104 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2017-Nov-23 01:15:47.761104 INFO [core] 
+2017-Nov-23 01:15:47.761104 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2017-Nov-23 01:15:47.761104 INFO [core] 
+2017-Nov-23 01:15:47.761104 INFO [core] Use "help" command to see the list of available commands.
+2017-Nov-23 01:15:47.761104 INFO [core] 
+2017-Nov-23 01:15:47.761104 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2017-Nov-23 01:15:47.761104 INFO [core] **********************************************************************
+2017-Nov-24 20:38:20.868911 WARNING [node_server] [138.68.102.23:49552 OUT] Exception in connectionHandler: TcpConnection::read
+2017-Nov-24 20:46:37.002646 INFO [daemon] AllyCoin v1.1.1.1()
+2017-Nov-24 20:46:37.002830 INFO [daemon] Module folder: /home/chris/Desktop/AllyMain/cryptonote/src/allycoind
+2017-Nov-24 20:46:37.002911 ERROR [currency] failed to parse coinbase tx from hard coded blob
+2017-Nov-24 20:46:37.002948 ERROR [currency] Failed to generate genesis block
+2017-Nov-24 20:46:39.527796 INFO [daemon] AllyCoin v1.1.1.1()
+2017-Nov-24 20:46:39.531160 INFO [daemon] Module folder: /home/chris/Desktop/AllyMain/cryptonote/src/allycoind
+2017-Nov-24 20:46:39.531271 ERROR [currency] failed to parse coinbase tx from hard coded blob
+2017-Nov-24 20:46:39.531309 ERROR [currency] Failed to generate genesis block

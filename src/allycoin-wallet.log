@@ -89,3 +89,57 @@ your wallet again. Your wallet key is NOT under risk anyway.
 2017-Nov-22 14:06:34.407086 INFO [simplewallet] Height 1, transaction 1890b27f63060a830cc99b6ff2f9861b07b17168f456c3ab4ccd078b4f953868, received 0.0007
 2017-Nov-22 14:06:34.407150 INFO [simplewallet] Height 2, transaction 43b2f9663034164099f6d74bc8a855704c56553c4b3dfee6652d61c1b7f26177, received 0.0007
 2017-Nov-22 14:06:39.403367 INFO [simplewallet] Height 3, transaction 2e08b2b917c765f49e0bb26e6498c2ad6adf604bd5a78bfbd7e0ae420c85006f, received 0.0007
+2017-Nov-22 21:14:08.773469 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-22 21:14:48.686159 INFO [simplewallet] Loading wallet...
+2017-Nov-22 21:14:48.810746 ERROR [simplewallet] Error: failed to load wallet: can't load wallet file '6.wallet', check password
+2017-Nov-22 21:14:48.811326 ERROR [simplewallet] Failed to initialize wallet
+2017-Nov-22 21:14:53.727861 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:49553).
+2017-Nov-22 21:15:02.046136 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-22 21:15:05.632262 INFO [simplewallet] Loading wallet...
+2017-Nov-22 21:15:05.751305 ERROR [simplewallet] Error: failed to load wallet: can't load wallet file '6.wallet', check password
+2017-Nov-22 21:15:05.751457 ERROR [simplewallet] Failed to initialize wallet
+2017-Nov-22 21:15:10.671768 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:49553).
+2017-Nov-22 21:15:11.990904 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-22 21:15:17.311777 INFO [simplewallet] Loading wallet...
+2017-Nov-22 21:15:17.417691 ERROR [simplewallet] Error: failed to load wallet: can't load wallet file '6.wallet', check password
+2017-Nov-22 21:15:17.417904 ERROR [simplewallet] Failed to initialize wallet
+2017-Nov-22 21:15:22.367716 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:49553).
+2017-Nov-22 21:17:01.131230 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-22 21:17:04.629418 ERROR [simplewallet] Error: failed to load wallet: wallet file '9.wallet' is not found
+2017-Nov-22 21:17:04.629472 ERROR [simplewallet] Failed to initialize wallet
+2017-Nov-22 21:17:04.629970 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:49553).
+2017-Nov-23 01:11:15.131364 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-23 01:11:22.822891 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:49553).
+2017-Nov-23 01:11:22.984210 INFO [simplewallet] Generated new wallet: 4G9UTsPGV34UpTDVFyiNAeVodX3YjmK7mKVdbKkwfXPH95TazXMHimMYBG3mutEXcQEX98StbVjPQDv6dgU6nnZPUeaDTjU
+2017-Nov-23 01:11:22.984210 INFO [simplewallet] view key: c206abfc71394473c492bb0199a31cc6b44f3cc82fccf020f95bc5867187db02
+2017-Nov-23 01:11:22.984940 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Nov-23 01:12:17.518811 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-23 01:12:25.633664 INFO [simplewallet] Generated new wallet: 4LmL1hiJ8Na6wYVMRQHHBZUiLbWWsoagdTeu3VGpDN8YhgEEDgRhCSbi68WoT2xDoTVB4SnFFpEC695c7kEADGLBR2VJFAD
+2017-Nov-23 01:12:25.633664 INFO [simplewallet] view key: 5993054498dbc7d6fa746ee8496bfbd646bb4a2ffe8fbaf2bafa68dda4242e07
+2017-Nov-23 01:12:25.633802 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Nov-23 01:15:38.726572 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-23 01:15:41.917259 ERROR [simplewallet] Error: mmk.wallet already exists
+2017-Nov-23 01:15:41.917315 ERROR [simplewallet] Failed to initialize wallet
+2017-Nov-23 01:15:44.118547 INFO [simplewallet] AllyCoin wallet v1.1.1.1()
+2017-Nov-23 01:15:48.117588 INFO [simplewallet] Generated new wallet: 4F14vnLM3DqYhYyuAD4pHzhXZU3mmA4MUa2ETWSV9LKd316qEqhZV9xCWNzTKDKphYJb59tEmgs3p3JMUsSZAGHzQ2CtyJN
+2017-Nov-23 01:15:48.117588 INFO [simplewallet] view key: 4a5fe334cc8e34cb4018069ef7c85bc440106d1339277bbe0c5943624c3adf02
+2017-Nov-23 01:15:48.117761 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Nov-23 01:27:53.749957 INFO [simplewallet] available balance: 0.0000, locked amount: 0.0000
